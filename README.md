@@ -1,4 +1,4 @@
-# TETRIS (ELEKTRONIKA-60-RECREATION)
+# TETRIS (ELEKTRONIKA-60-RECREATION) || Created by Nexus1314
 
 A terminal-based recreation of the Elektronika-60 Tetris created by Alexey Pajitnov, the original developer of the game.
 
